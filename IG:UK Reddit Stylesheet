@@ -12,7 +12,7 @@
 }
 
  .link .flair, .entry .tagline .flair {
-float:left;
+    float:left;
 }
 
 body:after {
