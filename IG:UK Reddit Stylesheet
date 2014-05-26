@@ -22,7 +22,7 @@ body:after {
     bottom: 0;
     height: 10%;
     width: 100%;
-    background: linear-gradient(transparent, #000);
+    background: linear-gradient(transparent, #000000);
 }
 
 body {
